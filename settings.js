@@ -75,7 +75,7 @@ SESSION_ID: process.env.SESSION_ID || 'Byte;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7In
 
 //----------------BOT LOGO------------------------------//
 //////////////////////////////////////////////////////////////////
-LOGO: process.env.LOGO || `https://telegra.ph/file/4dc85a29bee9f0fd24c71.jpg` , //BOT logo
+LOGO: process.env.LOGO || 'https://telegra.ph/file/58daeab7d47280639d46d.jpg` , //BOT logo
 /////////////////////////////////////////////////////////////////
 //-------------------------------------------------------//
 
